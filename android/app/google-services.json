@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "843815321202",
+    "project_id": "tapnroute-945f8",
+    "storage_bucket": "tapnroute-945f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843815321202:android:ff75bf62bfb93f67078ceb",
+        "android_client_info": {
+          "package_name": "com.example.tapnroute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843815321202-4vnaut7iol6uckmlt4rtr23d939i1j7r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tapnroute",
+            "certificate_hash": "077f34ed38deab47a01c27391e604dff3bc9aabf"
+          }
+        },
+        {
+          "client_id": "843815321202-8vtv7he51orfhk0qm4h0skss44ud8ged.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD6sIXuei31huq3HTbke_s35zPyjMb154"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843815321202-8vtv7he51orfhk0qm4h0skss44ud8ged.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "843815321202-tfiq19h7qtee82sjmdqptetqndb4h08k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tapnroute"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

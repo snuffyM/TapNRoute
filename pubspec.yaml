@@ -1,0 +1,101 @@
+name: tapnroute
+description: ITS
+
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.5
+  google_fonts: ^4.0.3
+  flutter_native_splash: ^2.2.17
+  get: ^4.6.5
+  flutter_otp_text_field: ^1.1.1
+  firebase_core: ^2.5.0
+  firebase_auth: ^4.2.6
+  email_auth: ^1.0.0
+  line_awesome_flutter: ^2.0.0
+  cloud_firestore: ^4.4.3
+  logger: ^1.2.2
+  intl_phone_field: ^3.1.0
+  shared_preferences: ^2.0.18
+  flutter_pw_validator: ^1.5.0
+  firebase_messaging: ^14.4.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/logo/ICON.png"
+
+  
+  
+  
+  
+  
+  flutter_lints: ^2.0.0
+
+flutter_native_splash:
+  color: "#f7f6f1"
+  color_dark: "#f7f6f1"
+  image: assets/images/well2.png
+  image_dark: assets/images/well2.png
+
+  android_12:
+    image: assets/images/well2.png
+    icon_background_color: "#f7f6f1"
+    image_dark: assets/images/well2.png
+    icon_background_color_dark: "#272727"
+
+
+flutter:
+
+  
+  
+  
+  uses-material-design: true
+
+  
+  assets:
+   - assets/
+   - assets/images/
+   - assets/logo/
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
